@@ -12,4 +12,6 @@ The same logic is applied to the W and S keys (only one can be held at a time)
 ## Is it Cheating?
 No but also yes, As you have unfair advantage over other players.
 ## Can i get banned for using this?
-Yes, In some known games like Faceit, Counter Strike 2 (CS2), Minecraft Premium Servers (Hypixel etc.) and research on your own .. Google it.
+Yes, In some known games like Faceit, Counter Strike 2 (CS2), Minecraft Premium Servers (Hypixel etc.) and further research on your own .. Google it yourself.
+## Fun Fact
+Razor Snap-tap feature works same as this script.
